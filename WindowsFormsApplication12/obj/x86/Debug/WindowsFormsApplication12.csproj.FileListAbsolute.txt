@@ -1,0 +1,7 @@
+F:\Computer Science\SANA TALTAA\Second term\Development\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe
+F:\Computer Science\SANA TALTAA\Second term\Development\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.pdb
+F:\Computer Science\SANA TALTAA\Second term\Development\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.Form1.resources
+F:\Computer Science\SANA TALTAA\Second term\Development\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.Properties.Resources.resources
+F:\Computer Science\SANA TALTAA\Second term\Development\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.csproj.GenerateResource.Cache
+F:\Computer Science\SANA TALTAA\Second term\Development\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.exe
+F:\Computer Science\SANA TALTAA\Second term\Development\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.pdb
